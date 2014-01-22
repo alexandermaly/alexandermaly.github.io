@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Metaprocess | My Octopress Blog]]></title>
   <link href="http://alexandermaly.github.io/blog/categories/metaprocess/atom.xml" rel="self"/>
   <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-22T01:19:19-08:00</updated>
+  <updated>2014-01-22T01:24:41-08:00</updated>
   <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,7 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/22/initial/"/>
     <updated>2014-01-22T01:14:58-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/22/initial</id>
-    <content type="html"><![CDATA[<p>Aloha!</p>
+    <content type="html"><![CDATA[<p><blockquote><p>aloha</p></blockquote></p>
 ]]></content>
   </entry>
   
