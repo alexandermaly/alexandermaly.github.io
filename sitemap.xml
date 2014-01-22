@@ -1,39 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://alexandermaly.github.io/blog/2011/06/01/this-is-a-test/</loc>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://alexandermaly.github.io/blog/2014/01/22/initial/</loc>
-        <lastmod>2014-01-22T02:18:14-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/blog/2014/01/22/software/</loc>
-        <lastmod>2014-01-22T02:40:54-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/blog/2014/01/22/spatial/</loc>
-        <lastmod>2014-01-22T02:41:30-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/blog/2014/01/22/digital/</loc>
-        <lastmod>2014-01-22T02:41:53-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/blog/archives/</loc>
-        <lastmod>2014-01-22T02:41:53-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alexandermaly.github.io/blog/</loc>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/</loc>
-        <lastmod>2014-01-22T02:41:53-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/new-page/</loc>
-        <lastmod>2014-01-22T02:18:14-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/projects/</loc>
-        <lastmod>2014-01-22T02:41:53-08:00</lastmod>
+        <lastmod>2014-01-22T14:02:40-08:00</lastmod>
     </url>
     <url>
         <loc>http://alexandermaly.github.io/robots.txt</loc>
-        <lastmod>2014-01-22T01:30:34-08:00</lastmod>
+        <lastmod>2014-01-22T13:58:56-08:00</lastmod>
     </url>
 </urlset>
