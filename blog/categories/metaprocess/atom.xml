@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Metaprocess | My Octopress Blog]]></title>
+  <title><![CDATA[Category: metaprocess | My Octopress Blog]]></title>
   <link href="http://alexandermaly.github.io/blog/categories/metaprocess/atom.xml" rel="self"/>
   <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-22T01:46:52-08:00</updated>
+  <updated>2014-01-22T02:02:21-08:00</updated>
   <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+  <generator uri="http://ryandeussing.com/">Ryan Deussing</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Initial]]></title>
+    <title type="html"><![CDATA[initial]]></title>
     <link href="http://alexandermaly.github.io/blog/2014/01/22/initial/"/>
     <updated>2014-01-22T01:14:58-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/22/initial</id>
