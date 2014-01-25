@@ -18,13 +18,13 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams/"/>
     <updated>2014-01-23T17:02:48-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams</id>
-    <content type="html"><![CDATA[<p>{% img fancybox /images/work/sol-rni-week-temp.png 398 image %}
-{% img fancybox /images/work/sol-rni-wind-year.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sol-rni-week-temp.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/sol-rni-wind-year.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p>{% img fancybox /images/work/sol-washdc-sunpath.png 398 image %}</p>
+<p><img class="fancybox" src="/images/work/sol-washdc-sunpath.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
@@ -33,8 +33,8 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis/"/>
     <updated>2014-01-22T17:02:49-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis</id>
-    <content type="html"><![CDATA[<p>{% img fancybox /images/work/res-120910-set.png 398 image %}
-{% img fancybox /images/work/res-121012-isometric.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/res-120910-set.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/res-121012-isometric.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   

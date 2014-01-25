@@ -18,21 +18,21 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/"/>
     <updated>2014-01-24T02:39:07-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes</id>
-    <content type="html"><![CDATA[<p>{% img /images/work/light-iter-smooth-v-checkered-101027-221235.png 398 image %}
-{% img /images/work/light-iter-100804-124842-prelight-toon.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/work/light-iter-smooth-v-checkered-101027-221235.png" width="398" title="image" >
+<img src="/images/work/light-iter-100804-124842-prelight-toon.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p>{% img /images/work/light-plane-expand-along-normal-101025-213949.png 398 image %}
-{% img /images/work/light-prelight-plane-smooth-checks-101025-204514.png 398 image %}
-{% img /images/work/light-pop-result-weird2-101108-173451.png 398 image %}
-{% img /images/work/light-prelight-gridscape2-101025-012811.png 398 image %}
-{% img /images/work/light-iter-100819-000713-layering-cubegen-w-face-move.png 398 image %}
-{% img /images/work/light-random-cube-arrange-and-porosize-101106-023408.png 398 image %}
-{% img /images/work/light-iter-mass-connextioncubeset-untitled-100318-215700.png 398 image %}
-{% img /images/work/light-iter-mass-sort-cube-sep-100429-011500.png 398 image %}
-{% img /images/work/light-iter-100516-193951-ribbon-test.png 398 image %}</p>
+<p><img src="/images/work/light-plane-expand-along-normal-101025-213949.png" width="398" title="image" >
+<img src="/images/work/light-prelight-plane-smooth-checks-101025-204514.png" width="398" title="image" >
+<img src="/images/work/light-pop-result-weird2-101108-173451.png" width="398" title="image" >
+<img src="/images/work/light-prelight-gridscape2-101025-012811.png" width="398" title="image" >
+<img src="/images/work/light-iter-100819-000713-layering-cubegen-w-face-move.png" width="398" title="image" >
+<img src="/images/work/light-random-cube-arrange-and-porosize-101106-023408.png" width="398" title="image" >
+<img src="/images/work/light-iter-mass-connextioncubeset-untitled-100318-215700.png" width="398" title="image" >
+<img src="/images/work/light-iter-mass-sort-cube-sep-100429-011500.png" width="398" title="image" >
+<img src="/images/work/light-iter-100516-193951-ribbon-test.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
@@ -41,24 +41,20 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
     <updated>2014-01-24T00:14:30-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
-    <content type="html"><![CDATA[<p>{% blockquote %}
-an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.
-{% endblockquote %}</p>
+    <content type="html"><![CDATA[<p><blockquote><p>an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.</p></blockquote></p>
 
-<p>{% img fancybox /images/work/dha-3daerial.png 398 comprehensive view of the proposed urban plan %}
-{% img fancybox /images/work/dha-canal-view.png 398 detail view of the proposed urban plan %}</p>
+<p><img class="fancybox" src="/images/work/dha-3daerial.png" width="398" title="comprehensive view of the proposed urban plan" >
+<img class="fancybox" src="/images/work/dha-canal-view.png" width="398" title="detail view of the proposed urban plan" ></p>
 
 <!-- more -->
 
 
-<p>{% img fancybox /images/work/dha-concept.png 398 initial inspirational diagram %}
-{% img fancybox /images/work/dha-dhaka-temperature2-3d-01.png 398 climatic conditions %}
-{% img fancybox /images/work/dha-landuse-transition-diagram.png 398 diagram of purpose %}
-{% img fancybox /images/work/dha-masterplan.png 398 plan view of proposal %}</p>
+<p><img class="fancybox" src="/images/work/dha-concept.png" width="398" title="initial inspirational diagram" >
+<img class="fancybox" src="/images/work/dha-dhaka-temperature2-3d-01.png" width="398" title="climatic conditions" >
+<img class="fancybox" src="/images/work/dha-landuse-transition-diagram.png" width="398" title="diagram of purpose" >
+<img class="fancybox" src="/images/work/dha-masterplan.png" width="398" title="plan view of proposal" ></p>
 
-<p>{% blockquote %}
-.
-{% endblockquote %}</p>
+<p><blockquote><p>.</p></blockquote></p>
 ]]></content>
   </entry>
   
@@ -67,13 +63,13 @@ an effort to re-unite the city of Dhaka across the flood barrier, and to reinteg
     <link href="http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams/"/>
     <updated>2014-01-23T17:02:48-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams</id>
-    <content type="html"><![CDATA[<p>{% img fancybox /images/work/sol-rni-week-temp.png 398 image %}
-{% img fancybox /images/work/sol-rni-wind-year.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sol-rni-week-temp.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/sol-rni-wind-year.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p>{% img fancybox /images/work/sol-washdc-sunpath.png 398 image %}</p>
+<p><img class="fancybox" src="/images/work/sol-washdc-sunpath.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
@@ -82,13 +78,13 @@ an effort to re-unite the city of Dhaka across the flood barrier, and to reinteg
     <link href="http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/"/>
     <updated>2014-01-21T17:02:49-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis</id>
-    <content type="html"><![CDATA[<p>{% img fancybox /images/work/van-early1.png 398 image %}
-{% img fancybox /images/work/van-AA017.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/van-early1.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/van-AA017.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p>{% img fancybox /images/work/van-shading.png 398 image %}</p>
+<p><img class="fancybox" src="/images/work/van-shading.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   

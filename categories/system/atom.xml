@@ -18,8 +18,8 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/18/floating-city/"/>
     <updated>2014-01-18T16:39:02-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/18/floating-city</id>
-    <content type="html"><![CDATA[<p>{% img fancybox /images/work/flo-long-elev.png 398 image %}
-{% img fancybox /images/work/flo-side-aerial.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/flo-long-elev.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/flo-side-aerial.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   

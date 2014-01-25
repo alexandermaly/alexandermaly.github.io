@@ -18,24 +18,20 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
     <updated>2014-01-24T00:14:30-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
-    <content type="html"><![CDATA[<p>{% blockquote %}
-an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.
-{% endblockquote %}</p>
+    <content type="html"><![CDATA[<p><blockquote><p>an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.</p></blockquote></p>
 
-<p>{% img fancybox /images/work/dha-3daerial.png 398 comprehensive view of the proposed urban plan %}
-{% img fancybox /images/work/dha-canal-view.png 398 detail view of the proposed urban plan %}</p>
+<p><img class="fancybox" src="/images/work/dha-3daerial.png" width="398" title="comprehensive view of the proposed urban plan" >
+<img class="fancybox" src="/images/work/dha-canal-view.png" width="398" title="detail view of the proposed urban plan" ></p>
 
 <!-- more -->
 
 
-<p>{% img fancybox /images/work/dha-concept.png 398 initial inspirational diagram %}
-{% img fancybox /images/work/dha-dhaka-temperature2-3d-01.png 398 climatic conditions %}
-{% img fancybox /images/work/dha-landuse-transition-diagram.png 398 diagram of purpose %}
-{% img fancybox /images/work/dha-masterplan.png 398 plan view of proposal %}</p>
+<p><img class="fancybox" src="/images/work/dha-concept.png" width="398" title="initial inspirational diagram" >
+<img class="fancybox" src="/images/work/dha-dhaka-temperature2-3d-01.png" width="398" title="climatic conditions" >
+<img class="fancybox" src="/images/work/dha-landuse-transition-diagram.png" width="398" title="diagram of purpose" >
+<img class="fancybox" src="/images/work/dha-masterplan.png" width="398" title="plan view of proposal" ></p>
 
-<p>{% blockquote %}
-.
-{% endblockquote %}</p>
+<p><blockquote><p>.</p></blockquote></p>
 ]]></content>
   </entry>
   
@@ -44,13 +40,13 @@ an effort to re-unite the city of Dhaka across the flood barrier, and to reinteg
     <link href="http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/"/>
     <updated>2014-01-21T17:02:49-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis</id>
-    <content type="html"><![CDATA[<p>{% img fancybox /images/work/van-early1.png 398 image %}
-{% img fancybox /images/work/van-AA017.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/van-early1.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/van-AA017.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p>{% img fancybox /images/work/van-shading.png 398 image %}</p>
+<p><img class="fancybox" src="/images/work/van-shading.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
@@ -59,8 +55,8 @@ an effort to re-unite the city of Dhaka across the flood barrier, and to reinteg
     <link href="http://alexandermaly.github.io/blog/2014/01/18/floating-city/"/>
     <updated>2014-01-18T16:39:02-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/18/floating-city</id>
-    <content type="html"><![CDATA[<p>{% img fancybox /images/work/flo-long-elev.png 398 image %}
-{% img fancybox /images/work/flo-side-aerial.png 398 image %}</p>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/flo-long-elev.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/flo-side-aerial.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   

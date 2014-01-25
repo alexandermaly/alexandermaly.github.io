@@ -18,14 +18,9 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/22/initial/"/>
     <updated>2014-01-22T01:14:58-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/22/initial</id>
-    <content type="html"><![CDATA[<p>{% blockquote %}
-aloha, welcome, and bienvenué!</p>
+    <content type="html"><![CDATA[<p><blockquote><p>aloha, welcome, and bienvenué!</p></p><p><p>This is a small collection of my work. Comments and criticisms are most welcome!</p></p><p><p></p></blockquote></p>
 
-<p>This is a small collection of my work. Comments and criticisms are most welcome!</p>
-
-<p>{% endblockquote %}</p>
-
-<p>{% img /images/loading_pacman.gif %}</p>
+<p><img src="/images/loading_pacman.gif"></p>
 ]]></content>
   </entry>
   
