@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: revit | ALEXANDER MALY]]></title>
+  <link href="http://alexandermaly.github.io/categories/revit/atom.xml" rel="self"/>
+  <link href="http://alexandermaly.github.io/"/>
+  <updated>2014-01-24T18:10:45-08:00</updated>
+  <id>http://alexandermaly.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Maly]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Residential Plans and Analysis]]></title>
+    <link href="http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis/"/>
+    <updated>2014-01-22T17:02:49-08:00</updated>
+    <id>http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/res-120910-set.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/res-121012-isometric.png" width="398" title="image" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[BIM components]]></title>
+    <link href="http://alexandermaly.github.io/blog/2014/01/20/bim-components/"/>
+    <updated>2014-01-20T14:09:44-08:00</updated>
+    <id>http://alexandermaly.github.io/blog/2014/01/20/bim-components</id>
+    <content type="html"><![CDATA[<p><blockquote><p>.</p></blockquote></p>
+
+<p><img class="fancybox" src="/images/work/bim-experiment-alltransWAI-Model-BldgB.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/bim-frontslabWAI-Model-BldgG.png" width="398" title="image" ></p>
+
+<!-- more -->
+
+
+<p><img class="fancybox" src="/images/work/bim-fullheightWAI-Model-BldgJ.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/bim-parkingmeshWAI-Model-BldgI.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/bim-repeats-corefloorWAI-Model-L.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/bim-SelevWAI-N.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/bim-stairdetails.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/bim-WAI-Model-BldgE-thumbnail.png" width="398" title="image" ></p>
+
+<p><blockquote><p>.</p></blockquote></p>
+]]></content>
+  </entry>
+  
+</feed>

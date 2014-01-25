@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: setback | ALEXANDER MALY]]></title>
+  <link href="http://alexandermaly.github.io/categories/setback/atom.xml" rel="self"/>
+  <link href="http://alexandermaly.github.io/"/>
+  <updated>2014-01-24T18:10:45-08:00</updated>
+  <id>http://alexandermaly.github.io/</id>
+  <author>
+    <name><![CDATA[Alexander Maly]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Retail Development and Analysis]]></title>
+    <link href="http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/"/>
+    <updated>2014-01-21T17:02:49-08:00</updated>
+    <id>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/van-early1.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/van-AA017.png" width="398" title="image" ></p>
+
+<!-- more -->
+
+
+<p><img class="fancybox" src="/images/work/van-shading.png" width="398" title="image" ></p>
+]]></content>
+  </entry>
+  
+</feed>
