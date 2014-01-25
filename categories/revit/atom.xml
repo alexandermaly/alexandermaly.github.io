@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: revit | ALEXANDER MALY]]></title>
-  <link href="http://www.alexandermaly.com/categories/revit/atom.xml" rel="self"/>
-  <link href="http://www.alexandermaly.com/"/>
-  <updated>2014-01-24T22:38:39-08:00</updated>
-  <id>http://www.alexandermaly.com/</id>
+  <link href="http://alexandermaly.github.io/categories/revit/atom.xml" rel="self"/>
+  <link href="http://alexandermaly.github.io/"/>
+  <updated>2014-01-24T22:46:26-08:00</updated>
+  <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Residential Plans and Analysis]]></title>
-    <link href="http://www.alexandermaly.com/blog/2014/01/22/residential-plans-and-analysis/"/>
+    <link href="http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis/"/>
     <updated>2014-01-22T17:02:49-08:00</updated>
-    <id>http://www.alexandermaly.com/blog/2014/01/22/residential-plans-and-analysis</id>
+    <id>http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/res-120910-set.png" width="398" title="image" >
 <img class="fancybox" src="/images/work/res-121012-isometric.png" width="398" title="image" ></p>
 ]]></content>
@@ -25,9 +25,9 @@
   
   <entry>
     <title type="html"><![CDATA[BIM components]]></title>
-    <link href="http://www.alexandermaly.com/blog/2014/01/20/bim-components/"/>
+    <link href="http://alexandermaly.github.io/blog/2014/01/20/bim-components/"/>
     <updated>2014-01-20T14:09:44-08:00</updated>
-    <id>http://www.alexandermaly.com/blog/2014/01/20/bim-components</id>
+    <id>http://alexandermaly.github.io/blog/2014/01/20/bim-components</id>
     <content type="html"><![CDATA[<p><blockquote><p>.</p></blockquote></p>
 
 <p><img class="fancybox" src="/images/work/bim-experiment-alltransWAI-Model-BldgB.png" width="398" title="image" >
