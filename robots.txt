@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://alexandermaly.github.io/sitemap.xml 
+Sitemap: http://www.alexandermaly.com/sitemap.xml 

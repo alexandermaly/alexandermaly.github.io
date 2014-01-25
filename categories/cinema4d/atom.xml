@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: cinema4d | ALEXANDER MALY]]></title>
-  <link href="http://alexandermaly.github.io/categories/cinema4d/atom.xml" rel="self"/>
-  <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T18:11:47-08:00</updated>
-  <id>http://alexandermaly.github.io/</id>
+  <link href="http://www.alexandermaly.com/categories/cinema4d/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T21:42:55-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Retail Development and Analysis]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis/"/>
     <updated>2014-01-21T17:02:49-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/van-early1.png" width="398" title="image" >
 <img class="fancybox" src="/images/work/van-AA017.png" width="398" title="image" ></p>
 
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tenant Improvement Visualization]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/21/tenant-improvement-visualization/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/21/tenant-improvement-visualization/"/>
     <updated>2014-01-21T16:42:27-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/21/tenant-improvement-visualization</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/21/tenant-improvement-visualization</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/bei-EXTERIOR-1.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
