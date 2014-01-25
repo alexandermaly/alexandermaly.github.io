@@ -1,159 +1,163 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/14/museum-conceptualization/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/01/initial/</loc>
+        <lastmod>2014-01-24T21:56:05-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alexandermaly.github.io/blog/2014/01/14/museum-conceptualization/</loc>
         <lastmod>2014-01-24T18:05:15-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/14/algorithmic-experiments/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/14/algorithmic-experiments/</loc>
         <lastmod>2014-01-24T18:06:34-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/16/modular-structure/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/16/modular-structure/</loc>
         <lastmod>2014-01-24T18:05:08-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/18/floating-city/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/18/floating-city/</loc>
         <lastmod>2014-01-24T18:09:54-08:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.alexandermaly.com/blog/2014/01/19/concept-and-massing-for-a-hawaiian-studies-building/
+            http://alexandermaly.github.io/blog/2014/01/19/concept-and-massing-for-a-hawaiian-studies-building/
         </loc>
         <lastmod>2014-01-24T18:04:33-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/20/bim-components/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/20/bim-components/</loc>
         <lastmod>2014-01-24T18:04:22-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/21/modular-house-system/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/21/modular-house-system/</loc>
         <lastmod>2014-01-24T18:05:04-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/21/tenant-improvement-visualization/</loc>
+        <loc>
+            http://alexandermaly.github.io/blog/2014/01/21/tenant-improvement-visualization/
+        </loc>
         <lastmod>2014-01-24T18:05:41-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/21/crowd-simulation/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/21/crowd-simulation/</loc>
         <lastmod>2014-01-24T18:04:37-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/</loc>
         <lastmod>2014-01-24T18:05:22-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/22/initial/</loc>
-        <lastmod>2014-01-24T18:03:09-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/22/diagrams-and-analytical-models/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/22/diagrams-and-analytical-models/</loc>
         <lastmod>2014-01-24T18:04:40-08:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.alexandermaly.com/blog/2014/01/22/retail-space-conceptual-visualization/
+            http://alexandermaly.github.io/blog/2014/01/22/retail-space-conceptual-visualization/
         </loc>
         <lastmod>2014-01-24T18:05:37-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/22/upcycling-a-pavilion/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/22/upcycling-a-pavilion/</loc>
         <lastmod>2014-01-24T18:05:44-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/22/mapping-the-sf-bike-system/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/22/mapping-the-sf-bike-system/</loc>
         <lastmod>2014-01-24T18:06:48-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/22/monument-within-landscape/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/22/monument-within-landscape/</loc>
         <lastmod>2014-01-24T18:05:12-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/22/residential-plans-and-analysis/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis/</loc>
         <lastmod>2014-01-24T18:05:19-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/23/diagrams-of-oahu/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/23/diagrams-of-oahu/</loc>
         <lastmod>2014-01-24T18:04:45-08:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.alexandermaly.com/blog/2014/01/23/genetic-algorithm-in-object-optimization/
+            http://alexandermaly.github.io/blog/2014/01/23/genetic-algorithm-in-object-optimization/
         </loc>
         <lastmod>2014-01-24T18:04:53-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/23/climate-analytical-diagrams/</loc>
+        <loc>http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams/</loc>
         <lastmod>2014-01-24T18:04:28-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/2014/01/24/urban-design-for-dhaka-bangladesh/</loc>
+        <loc>
+            http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh/
+        </loc>
         <lastmod>2014-01-24T18:10:06-08:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.alexandermaly.com/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/
+            http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/
         </loc>
         <lastmod>2014-01-24T18:04:57-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/404.html</loc>
+        <loc>http://alexandermaly.github.io/404.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/archives/</loc>
-        <lastmod>2014-01-24T18:10:06-08:00</lastmod>
+        <loc>http://alexandermaly.github.io/archives/</loc>
+        <lastmod>2014-01-24T21:56:05-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/assets/bootstrap/about.html</loc>
+        <loc>http://alexandermaly.github.io/assets/bootstrap/about.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/assets/bootstrap/components.html</loc>
+        <loc>http://alexandermaly.github.io/assets/bootstrap/components.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/assets/bootstrap/css.html</loc>
+        <loc>http://alexandermaly.github.io/assets/bootstrap/css.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/assets/bootstrap/customize.html</loc>
+        <loc>http://alexandermaly.github.io/assets/bootstrap/customize.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/assets/bootstrap/getting-started.html</loc>
+        <loc>http://alexandermaly.github.io/assets/bootstrap/getting-started.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/assets/bootstrap/</loc>
-        <lastmod>2014-01-24T18:10:06-08:00</lastmod>
+        <loc>http://alexandermaly.github.io/assets/bootstrap/</loc>
+        <lastmod>2014-01-24T21:56:05-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/assets/bootstrap/javascript.html</loc>
+        <loc>http://alexandermaly.github.io/assets/bootstrap/javascript.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/archives/</loc>
-        <lastmod>2014-01-24T18:10:06-08:00</lastmod>
+        <loc>http://alexandermaly.github.io/blog/archives/</loc>
+        <lastmod>2014-01-24T21:56:05-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/blog/</loc>
-        <lastmod>2014-01-24T18:10:06-08:00</lastmod>
+        <loc>http://alexandermaly.github.io/blog/</loc>
+        <lastmod>2014-01-24T21:56:05-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/</loc>
-        <lastmod>2014-01-24T18:10:06-08:00</lastmod>
+        <loc>http://alexandermaly.github.io/</loc>
+        <lastmod>2014-01-24T21:56:05-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/links.html</loc>
+        <loc>http://alexandermaly.github.io/links.html</loc>
         <lastmod>2014-01-24T18:03:09-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/projects/</loc>
-        <lastmod>2014-01-24T18:10:06-08:00</lastmod>
+        <loc>http://alexandermaly.github.io/projects/</loc>
+        <lastmod>2014-01-24T21:56:05-08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.alexandermaly.com/robots.txt</loc>
+        <loc>http://alexandermaly.github.io/robots.txt</loc>
         <lastmod>2014-01-23T13:29:16-08:00</lastmod>
     </url>
 </urlset>

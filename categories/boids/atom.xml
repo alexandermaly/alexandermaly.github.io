@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: boids | ALEXANDER MALY]]></title>
-  <link href="http://www.alexandermaly.com/categories/boids/atom.xml" rel="self"/>
-  <link href="http://www.alexandermaly.com/"/>
-  <updated>2014-01-24T21:50:23-08:00</updated>
-  <id>http://www.alexandermaly.com/</id>
+  <link href="http://alexandermaly.github.io/categories/boids/atom.xml" rel="self"/>
+  <link href="http://alexandermaly.github.io/"/>
+  <updated>2014-01-24T21:56:06-08:00</updated>
+  <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Crowd Simulation]]></title>
-    <link href="http://www.alexandermaly.com/blog/2014/01/21/crowd-simulation/"/>
+    <link href="http://alexandermaly.github.io/blog/2014/01/21/crowd-simulation/"/>
     <updated>2014-01-21T17:02:47-08:00</updated>
-    <id>http://www.alexandermaly.com/blog/2014/01/21/crowd-simulation</id>
+    <id>http://alexandermaly.github.io/blog/2014/01/21/crowd-simulation</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sim-simulation-framegrab.png" width="398" title="image" ></p>
 ]]></content>
   </entry>

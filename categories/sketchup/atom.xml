@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: sketchup | ALEXANDER MALY]]></title>
-  <link href="http://www.alexandermaly.com/categories/sketchup/atom.xml" rel="self"/>
-  <link href="http://www.alexandermaly.com/"/>
-  <updated>2014-01-24T21:50:23-08:00</updated>
-  <id>http://www.alexandermaly.com/</id>
+  <link href="http://alexandermaly.github.io/categories/sketchup/atom.xml" rel="self"/>
+  <link href="http://alexandermaly.github.io/"/>
+  <updated>2014-01-24T21:56:06-08:00</updated>
+  <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Urban design for Dhaka, Bangladesh]]></title>
-    <link href="http://www.alexandermaly.com/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
+    <link href="http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
     <updated>2014-01-24T00:14:30-08:00</updated>
-    <id>http://www.alexandermaly.com/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
+    <id>http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
     <content type="html"><![CDATA[<p><blockquote><p>an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.</p></blockquote></p>
 
 <p><img class="fancybox" src="/images/work/dha-3daerial.png" width="398" title="comprehensive view of the proposed urban plan" >
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[Retail Development and Analysis]]></title>
-    <link href="http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis/"/>
+    <link href="http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/"/>
     <updated>2014-01-21T17:02:49-08:00</updated>
-    <id>http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis</id>
+    <id>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/van-early1.png" width="398" title="image" >
 <img class="fancybox" src="/images/work/van-AA017.png" width="398" title="image" ></p>
 
