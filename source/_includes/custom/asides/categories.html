@@ -1,0 +1,12 @@
+<section id="categories" class="inner">
+  <h3>Categories</h3>
+  <ul id="category-enclosure">
+    {% for category in site.categories %}
+    {% capture category_url %}{{ site.category_dir }}/{{ category | first | slugize | downcase | replace:' ','-' | append:'/index.html'}}{% endcapture %}
+    <li><a class="list-group-item {% if category_url == page.url %}active{% endif %}" href="{{ root_url | append:'/' | append:category_url }}">
+        <span class="badge">{{ category | last | size }}</span>
+        {{ category | first }}
+      </a></li>
+    {% endfor %}
+    </ul>
+</section>

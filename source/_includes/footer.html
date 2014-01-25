@@ -1,1 +1,9 @@
+<section id="footer" class="inner">
+Copyright &copy; {{ site.time | date: "%Y" }}
+{% if site.author %}
+    {{ site.author }}
+{% else %}
+    {{ site.title }}
+{% endif %}
 {% include custom/footer.html %}
+</section>

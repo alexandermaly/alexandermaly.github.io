@@ -1,0 +1,9 @@
+---
+layout: post
+title: "software"
+date: 2014-01-22 02:38:51 -0800
+comments: true
+categories: [bim, revit, archicad, autocad, vectorworks, blender, sketchup, rhinoceros, grasshopper, gis]
+---
+
+to be deleted

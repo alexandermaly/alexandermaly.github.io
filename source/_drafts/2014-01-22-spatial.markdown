@@ -1,0 +1,46 @@
+---
+layout: post
+title: "spatial"
+date: 2014-01-22 02:39:02 -0800
+comments: true
+categories: [regional, urban, building, space, detail, object]
+published: false
+---
+
+{% img fancybox /images/work/apt-alawai-garden-namahana-site-plan-v5.png 398 image %}
+{% img fancybox /images/work/cit-citi-aerial.png 398 image %}
+{% img fancybox /images/work/con-hv-131209-v1.png 398 image %}
+{% img fancybox /images/work/hnl-airside-composite-130331-s2-v7.png 398 image %}
+
+xx
+{% img fancybox /images/work/generator-iterator-100506-212730-dark-glow.png 398 image %}
+
+xx Drafting
+{% img fancybox /images/work/koo-25119-level-2-plans.png 398 image %}
+{% img fancybox /images/work/koo-signage-10_0211-type-1-only.png 398 image %}
+{% img fancybox /images/work/koo-signage-TYPE-1-TYP.png 398 image %}
+{% img fancybox /images/work/koo-signage-TYPE-2-TYP.png 398 image %}
+{% img fancybox /images/work/koo-UNIT-4-201-wyland-option.png 398 image %}
+
+{% img fancybox /images/work/mas-003.png 398 image %}
+
+xx Eight San
+{% img fancybox /images/work/san-interior.png 398 image %}
+
+
+Modular Structure
+xx{% img fancybox /images/work/sx-model-in-situA-SPL-3pavC.png 398 image %}
+
+xx Eight Tourneau
+{% img fancybox /images/work/tou-escalator-wall-lg.png 398 image %}
+{% img fancybox /images/work/tou-mediawall-A-lg.png 398 image %}
+{% img fancybox /images/work/tou-TOURNEAU-57TH-SECTIONS.png 398 image %}
+
+Retail Development and Analysis
+
+xx{% img fancybox /images/work/van-elevation_no-name.png 398 image %}
+xx{% img fancybox /images/work/van-ext.png 398 image %}
+
+{% blockquote %}
+.
+{% endblockquote %}

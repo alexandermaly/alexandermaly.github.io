@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Hello! I'm Alexander Maly"
+date: 2014-01-01 01:01:01 -0800
+comments: true
+categories: metaprocess
+---
+
+{% blockquote %}
+aloha, welcome, and bienvenué!
+
+This is a small collection of my work. Comments and criticisms are most welcome!
+
+{% endblockquote %}
+
+
+{% img /images/loading_pacman.gif %}

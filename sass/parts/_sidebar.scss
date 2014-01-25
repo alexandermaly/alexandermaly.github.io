@@ -1,0 +1,58 @@
+/*
+@import "sidebar/base";
+@import "sidebar/twitter";
+@import "sidebar/googleplus";
+@import "sidebar/pinboard";
+@import "sidebar/delicious";
+*/
+
+
+
+#asides{
+	clear:left;
+	h3{
+		padding: 10px 0px;
+	}
+	.list-group-item, .post{
+		float:left;
+	    position: relative;
+	    display: inline-block;
+	    padding: 3px 4px;
+	    margin: 1px;
+	    background-color: #FFF;
+	    border: 1px solid #DDD;
+	}
+
+    .badge{
+    	float:right;
+		display: inline-block;
+	    min-width: 6px;
+	    padding: 1px 3px;
+	    margin: 1px 5px;
+	    font-size: 10px;
+	    font-weight: bold;
+	    line-height: 1;
+	    color: #FFF;
+	    text-align: center;
+	    white-space: nowrap;
+	    vertical-align: middle;
+	    background-color: #999;
+	    border-radius: 10px;
+	}
+	li
+	{
+		float:left;
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	@media screen and (max-width: 800px){
+		padding-bottom: 15px;
+	}
+
+	@media screen and (max-width: 600px){
+		padding: 15px 0;
+	}	
+
+}

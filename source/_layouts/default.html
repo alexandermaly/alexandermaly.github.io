@@ -1,14 +1,21 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
-<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
-  <header role="banner">{% include header.html %}</header>
-  <nav role="navigation">{% include navigation.html %}</nav>
-  <div id="main">
-    <div id="content">
-      {{ content | expand_urls: root_url }}
-    </div>
-  </div>
-  <footer role="contentinfo">{% include footer.html %}</footer>
-  {% include after_footer.html %}
+
+<body>
+	<header id="header" class="inner">{% include header.html %}</header>
+	{% unless page.banner == false %}
+		{% include banner.html %}
+	{% endunless %}
+	<div id="content" class="inner">{{ content | expand_urls: root_url }}
+	</div>
+	<div id="asides" class="inner">
+		{% if site.blog_index_asides.size %} {% include_array blog_index_asides %} {% else %} {% include_array default_asides %} {% endif %}
+	</div>
+    <div id="archives" class="inner"><h3><a href="{{ root_url }}/blog/archives">Blog Archives</a></h3></div>
+	<div id="footer" class="inner">
+	<footer id="footer" class="inner">{% include footer.html %}</footer>
+	{% include after_footer.html %}
+	</div>
+
 </body>
 </html>
