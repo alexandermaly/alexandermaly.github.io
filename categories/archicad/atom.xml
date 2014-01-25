@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: archicad | ALEXANDER MALY]]></title>
+  <link href="http://www.alexandermaly.com/categories/archicad/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T22:38:39-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
+  <author>
+    <name><![CDATA[Alexander Maly]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Modular Structure]]></title>
+    <link href="http://www.alexandermaly.com/blog/2014/01/16/modular-structure/"/>
+    <updated>2014-01-16T17:02:48-08:00</updated>
+    <id>http://www.alexandermaly.com/blog/2014/01/16/modular-structure</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sx-Containment.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/sx-det-day3pavC.png" width="398" title="image" ></p>
+
+<!-- more -->
+
+
+<p><img class="fancybox" src="/images/work/sx-ISOMETRIC.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/sx-night1_3pavC.png" width="398" title="image" ></p>
+
+<p><img class="fancybox" src="/images/work/sx-snowy3pavC.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/sx-wholebldg_3pavC.png" width="398" title="image" ></p>
+]]></content>
+  </entry>
+  
+</feed>
