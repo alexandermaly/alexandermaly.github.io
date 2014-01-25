@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: parametric | ALEXANDER MALY]]></title>
-  <link href="http://alexandermaly.github.io/categories/parametric/atom.xml" rel="self"/>
-  <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T22:46:26-08:00</updated>
-  <id>http://alexandermaly.github.io/</id>
+  <link href="http://www.alexandermaly.com/categories/parametric/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T23:03:06-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Iteration and Optimization among Simple Volumes]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/"/>
     <updated>2014-01-24T02:39:07-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/24/iteration-and-optimization-among-simple-volumes</id>
     <content type="html"><![CDATA[<p><img src="/images/work/light-iter-smooth-v-checkered-101027-221235.png" width="398" title="image" >
 <img src="/images/work/light-iter-100804-124842-prelight-toon.png" width="398" title="image" ></p>
 

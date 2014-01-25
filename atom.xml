@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[ALEXANDER MALY]]></title>
-  <link href="http://alexandermaly.github.io/atom.xml" rel="self"/>
-  <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T22:46:26-08:00</updated>
-  <id>http://alexandermaly.github.io/</id>
+  <link href="http://www.alexandermaly.com/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T23:03:06-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,45 +15,45 @@
   
   <entry>
     <title type="html"><![CDATA[Iteration and Optimization among Simple Volumes]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/"/>
     <updated>2014-01-24T02:39:07-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes</id>
-    <content type="html"><![CDATA[<p><img src="http://alexandermaly.github.io/images/work/light-iter-smooth-v-checkered-101027-221235.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-iter-100804-124842-prelight-toon.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/24/iteration-and-optimization-among-simple-volumes</id>
+    <content type="html"><![CDATA[<p><img src="http://www.alexandermaly.com/images/work/light-iter-smooth-v-checkered-101027-221235.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-iter-100804-124842-prelight-toon.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img src="http://alexandermaly.github.io/images/work/light-plane-expand-along-normal-101025-213949.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-prelight-plane-smooth-checks-101025-204514.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-pop-result-weird2-101108-173451.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-prelight-gridscape2-101025-012811.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-iter-100819-000713-layering-cubegen-w-face-move.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-random-cube-arrange-and-porosize-101106-023408.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-iter-mass-connextioncubeset-untitled-100318-215700.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-iter-mass-sort-cube-sep-100429-011500.png" width="398" title="image" >
-<img src="http://alexandermaly.github.io/images/work/light-iter-100516-193951-ribbon-test.png" width="398" title="image" ></p>
+<p><img src="http://www.alexandermaly.com/images/work/light-plane-expand-along-normal-101025-213949.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-prelight-plane-smooth-checks-101025-204514.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-pop-result-weird2-101108-173451.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-prelight-gridscape2-101025-012811.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-iter-100819-000713-layering-cubegen-w-face-move.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-random-cube-arrange-and-porosize-101106-023408.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-iter-mass-connextioncubeset-untitled-100318-215700.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-iter-mass-sort-cube-sep-100429-011500.png" width="398" title="image" >
+<img src="http://www.alexandermaly.com/images/work/light-iter-100516-193951-ribbon-test.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Urban design for Dhaka, Bangladesh]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
     <updated>2014-01-24T00:14:30-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
     <content type="html"><![CDATA[<blockquote><p>an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.</p></blockquote>
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/dha-3daerial.png" width="398" title="comprehensive view of the proposed urban plan" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/dha-canal-view.png" width="398" title="detail view of the proposed urban plan" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/dha-3daerial.png" width="398" title="comprehensive view of the proposed urban plan" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/dha-canal-view.png" width="398" title="detail view of the proposed urban plan" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/dha-concept.png" width="398" title="initial inspirational diagram" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/dha-dhaka-temperature2-3d-01.png" width="398" title="climatic conditions" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/dha-landuse-transition-diagram.png" width="398" title="diagram of purpose" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/dha-masterplan.png" width="398" title="plan view of proposal" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/dha-concept.png" width="398" title="initial inspirational diagram" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/dha-dhaka-temperature2-3d-01.png" width="398" title="climatic conditions" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/dha-landuse-transition-diagram.png" width="398" title="diagram of purpose" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/dha-masterplan.png" width="398" title="plan view of proposal" ></p>
 
 <blockquote><p>.</p></blockquote>
 
@@ -62,205 +62,205 @@
   
   <entry>
     <title type="html"><![CDATA[Climate Analytical Diagrams]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/23/climate-analytical-diagrams/"/>
     <updated>2014-01-23T17:02:48-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/sol-rni-week-temp.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/sol-rni-wind-year.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/23/climate-analytical-diagrams</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/sol-rni-week-temp.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/sol-rni-wind-year.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/sol-washdc-sunpath.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/sol-washdc-sunpath.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Genetic Algorithm in Object Optimization]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/23/genetic-algorithm-in-object-optimization/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/23/genetic-algorithm-in-object-optimization/"/>
     <updated>2014-01-23T17:02:46-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/23/genetic-algorithm-in-object-optimization</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/opti-g6p40-incl-vol-prelight-101113-235300.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/opti-g10p50m10e1-incl-vol-ramp-101110-230007.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/23/genetic-algorithm-in-object-optimization</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/opti-g6p40-incl-vol-prelight-101113-235300.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/opti-g10p50m10e1-incl-vol-ramp-101110-230007.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diagrams of Oahu]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/23/diagrams-of-oahu/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/23/diagrams-of-oahu/"/>
     <updated>2014-01-23T17:02:46-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/23/diagrams-of-oahu</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/oahu-landvalue-final.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/oahu-shadingrender.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/23/diagrams-of-oahu</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/oahu-landvalue-final.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/oahu-shadingrender.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/oahu-test-honoquad.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/oahu-test-honoquad.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Residential Plans and Analysis]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/residential-plans-and-analysis/"/>
     <updated>2014-01-22T17:02:49-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/22/residential-plans-and-analysis</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/res-120910-set.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/res-121012-isometric.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/residential-plans-and-analysis</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/res-120910-set.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/res-121012-isometric.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Monument within Landscape]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/22/monument-within-landscape/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/monument-within-landscape/"/>
     <updated>2014-01-22T17:02:47-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/22/monument-within-landscape</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/pal-model-angle.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/pal-wings7-elev.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/monument-within-landscape</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/pal-model-angle.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/pal-wings7-elev.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/pal-model-wing.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/pal-model-wing.png" width="398" title="image" ></p>
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/pali-diagrams.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/pali-merged.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/pali-overhead-big-bridgeY.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/pali-PICT1981-colorcorrected.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/pali-PICT2008-colorcorrected.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/pali-sx-diagram.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/pali-UnderdeckViewbridgeX.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/pali-diagrams.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/pali-merged.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/pali-overhead-big-bridgeY.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/pali-PICT1981-colorcorrected.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/pali-PICT2008-colorcorrected.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/pali-sx-diagram.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/pali-UnderdeckViewbridgeX.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Mapping the SF Bike System]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/22/mapping-the-sf-bike-system/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/mapping-the-sf-bike-system/"/>
     <updated>2014-01-22T17:02:45-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/22/mapping-the-sf-bike-system</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/map-SFBikes-131112-210910.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/mapping-the-sf-bike-system</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/map-SFBikes-131112-210910.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Upcycling a Pavilion]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/22/upcycling-a-pavilion/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/upcycling-a-pavilion/"/>
     <updated>2014-01-22T17:02:44-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/22/upcycling-a-pavilion</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-concept-model.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-DSC00703.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/upcycling-a-pavilion</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-concept-model.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-DSC00703.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-DSC00705.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-DSC00708.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-DSC00710.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-DSC00716.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-DSC00725.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-furniture-CIMG4198.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-IMG_1726.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-IMG_1766.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-IMG_1779.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/lan-roofCIMG4149.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-DSC00705.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-DSC00708.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-DSC00710.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-DSC00716.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-DSC00725.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-furniture-CIMG4198.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-IMG_1726.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-IMG_1766.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-IMG_1779.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/lan-roofCIMG4149.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Retail Space Conceptual Visualization]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/22/retail-space-conceptual-visualization/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/retail-space-conceptual-visualization/"/>
     <updated>2014-01-22T17:02:43-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/22/retail-space-conceptual-visualization</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/int-interiorsx.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/typ-oblique-detl04A.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/retail-space-conceptual-visualization</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/int-interiorsx.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/typ-oblique-detl04A.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diagrams and Analytical Models]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/22/diagrams-and-analytical-models/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/diagrams-and-analytical-models/"/>
     <updated>2014-01-22T17:02:43-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/22/diagrams-and-analytical-models</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/dia-twist-phyics-rendering.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/dia-twist-rh-vp2-110722.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/diagrams-and-analytical-models</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/dia-twist-phyics-rendering.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/dia-twist-rh-vp2-110722.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Retail Development and Analysis]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis/"/>
     <updated>2014-01-21T17:02:49-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/van-early1.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/van-AA017.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/van-early1.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/van-AA017.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/van-shading.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/van-shading.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Crowd Simulation]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/21/crowd-simulation/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/21/crowd-simulation/"/>
     <updated>2014-01-21T17:02:47-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/21/crowd-simulation</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/sim-simulation-framegrab.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/21/crowd-simulation</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/sim-simulation-framegrab.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Tenant Improvement Visualization]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/21/tenant-improvement-visualization/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/21/tenant-improvement-visualization/"/>
     <updated>2014-01-21T16:42:27-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/21/tenant-improvement-visualization</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/bei-EXTERIOR-1.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/21/tenant-improvement-visualization</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/bei-EXTERIOR-1.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Modular House System]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/21/modular-house-system/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/21/modular-house-system/"/>
     <updated>2014-01-21T14:57:04-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/21/modular-house-system</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2601.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2609.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/21/modular-house-system</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2601.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2609.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2610.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2633.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2636.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2640.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2641.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-PICT2650.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-interlock-wall.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/wal-tri.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2610.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2633.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2636.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2640.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2641.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-PICT2650.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-interlock-wall.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/wal-tri.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[BIM components]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/20/bim-components/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/20/bim-components/"/>
     <updated>2014-01-20T14:09:44-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/20/bim-components</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/20/bim-components</id>
     <content type="html"><![CDATA[<blockquote><p>.</p></blockquote>
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-experiment-alltransWAI-Model-BldgB.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-frontslabWAI-Model-BldgG.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-experiment-alltransWAI-Model-BldgB.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-frontslabWAI-Model-BldgG.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-fullheightWAI-Model-BldgJ.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-parkingmeshWAI-Model-BldgI.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-repeats-corefloorWAI-Model-L.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-SelevWAI-N.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-stairdetails.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/bim-WAI-Model-BldgE-thumbnail.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-fullheightWAI-Model-BldgJ.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-parkingmeshWAI-Model-BldgI.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-repeats-corefloorWAI-Model-L.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-SelevWAI-N.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-stairdetails.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/bim-WAI-Model-BldgE-thumbnail.png" width="398" title="image" ></p>
 
 <blockquote><p>.</p></blockquote>
 
@@ -269,58 +269,58 @@
   
   <entry>
     <title type="html"><![CDATA[Concept and Massing for a Hawaiian Studies Building]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/19/concept-and-massing-for-a-hawaiian-studies-building/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/19/concept-and-massing-for-a-hawaiian-studies-building/"/>
     <updated>2014-01-19T17:02:44-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/19/concept-and-massing-for-a-hawaiian-studies-building</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/kap-aerial-render.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/kap-fin-3.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/19/concept-and-massing-for-a-hawaiian-studies-building</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/kap-aerial-render.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/kap-fin-3.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/kap-mass-diagram.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/kap-mass-sketch.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/kap-overhead-xray.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/kap-overhead.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/kap-program-diagram.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/kap-mass-diagram.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/kap-mass-sketch.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/kap-overhead-xray.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/kap-overhead.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/kap-program-diagram.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Floating City]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/18/floating-city/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/18/floating-city/"/>
     <updated>2014-01-18T16:39:02-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/18/floating-city</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/flo-long-elev.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/flo-side-aerial.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/18/floating-city</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/flo-long-elev.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/flo-side-aerial.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Modular Structure]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/16/modular-structure/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/16/modular-structure/"/>
     <updated>2014-01-16T17:02:48-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/16/modular-structure</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/sx-Containment.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/sx-det-day3pavC.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/16/modular-structure</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/sx-Containment.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/sx-det-day3pavC.png" width="398" title="image" ></p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/sx-ISOMETRIC.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/sx-night1_3pavC.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/sx-ISOMETRIC.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/sx-night1_3pavC.png" width="398" title="image" ></p>
 
-<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/sx-snowy3pavC.png" width="398" title="image" >
-<img class="fancybox" src="http://alexandermaly.github.io/images/work/sx-wholebldg_3pavC.png" width="398" title="image" ></p>
+<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/sx-snowy3pavC.png" width="398" title="image" >
+<img class="fancybox" src="http://www.alexandermaly.com/images/work/sx-wholebldg_3pavC.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Algorithmic Experiments]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/14/algorithmic-experiments/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/14/algorithmic-experiments/"/>
     <updated>2014-01-14T17:02:48-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/14/algorithmic-experiments</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="http://alexandermaly.github.io/images/work/sort-iter-100516-194402-scatter-coupled.png" width="398" title="image" ></p>
+    <id>http://www.alexandermaly.com/blog/2014/01/14/algorithmic-experiments</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="http://www.alexandermaly.com/images/work/sort-iter-100516-194402-scatter-coupled.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   

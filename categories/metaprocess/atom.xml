@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: metaprocess | ALEXANDER MALY]]></title>
-  <link href="http://alexandermaly.github.io/categories/metaprocess/atom.xml" rel="self"/>
-  <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T22:46:26-08:00</updated>
-  <id>http://alexandermaly.github.io/</id>
+  <link href="http://www.alexandermaly.com/categories/metaprocess/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T23:03:06-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello! I'm Alexander Maly]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/01/initial/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/01/initial/"/>
     <updated>2014-01-01T01:01:01-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/01/initial</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/01/initial</id>
     <content type="html"><![CDATA[<p><blockquote><p>aloha, welcome, and bienvenué!</p></p><p><p>This is a small collection of my work. Comments and criticisms are most welcome!</p></p><p><p></p></blockquote></p>
 
 <p><img src="/images/loading_pacman.gif"></p>

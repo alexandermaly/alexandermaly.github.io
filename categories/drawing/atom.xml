@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: drawing | ALEXANDER MALY]]></title>
-  <link href="http://alexandermaly.github.io/categories/drawing/atom.xml" rel="self"/>
-  <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T22:46:26-08:00</updated>
-  <id>http://alexandermaly.github.io/</id>
+  <link href="http://www.alexandermaly.com/categories/drawing/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T23:03:06-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Urban design for Dhaka, Bangladesh]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
     <updated>2014-01-24T00:14:30-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
     <content type="html"><![CDATA[<p><blockquote><p>an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.</p></blockquote></p>
 
 <p><img class="fancybox" src="/images/work/dha-3daerial.png" width="398" title="comprehensive view of the proposed urban plan" >
