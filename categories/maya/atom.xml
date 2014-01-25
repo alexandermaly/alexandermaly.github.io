@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: maya | ALEXANDER MALY]]></title>
-  <link href="http://alexandermaly.github.io/categories/maya/atom.xml" rel="self"/>
-  <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T21:56:06-08:00</updated>
-  <id>http://alexandermaly.github.io/</id>
+  <link href="http://www.alexandermaly.com/categories/maya/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T22:38:39-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Iteration and Optimization among Simple Volumes]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/24/iteration-and-optimization-among-simple-volumes/"/>
     <updated>2014-01-24T02:39:07-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/24/iteration-and-optimization-among-simple-volumes</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/24/iteration-and-optimization-among-simple-volumes</id>
     <content type="html"><![CDATA[<p><img src="/images/work/light-iter-smooth-v-checkered-101027-221235.png" width="398" title="image" >
 <img src="/images/work/light-iter-100804-124842-prelight-toon.png" width="398" title="image" ></p>
 
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[Genetic Algorithm in Object Optimization]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/23/genetic-algorithm-in-object-optimization/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/23/genetic-algorithm-in-object-optimization/"/>
     <updated>2014-01-23T17:02:46-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/23/genetic-algorithm-in-object-optimization</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/23/genetic-algorithm-in-object-optimization</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/opti-g6p40-incl-vol-prelight-101113-235300.png" width="398" title="image" >
 <img class="fancybox" src="/images/work/opti-g10p50m10e1-incl-vol-ramp-101110-230007.png" width="398" title="image" ></p>
 ]]></content>
@@ -48,9 +48,9 @@
   
   <entry>
     <title type="html"><![CDATA[Algorithmic Experiments]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/14/algorithmic-experiments/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/14/algorithmic-experiments/"/>
     <updated>2014-01-14T17:02:48-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/14/algorithmic-experiments</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/14/algorithmic-experiments</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sort-iter-100516-194402-scatter-coupled.png" width="398" title="image" ></p>
 ]]></content>
   </entry>

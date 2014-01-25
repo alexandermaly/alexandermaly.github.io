@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: climate | ALEXANDER MALY]]></title>
-  <link href="http://alexandermaly.github.io/categories/climate/atom.xml" rel="self"/>
-  <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T21:56:06-08:00</updated>
-  <id>http://alexandermaly.github.io/</id>
+  <link href="http://www.alexandermaly.com/categories/climate/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-24T22:38:39-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Climate Analytical Diagrams]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/23/climate-analytical-diagrams/"/>
     <updated>2014-01-23T17:02:48-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/23/climate-analytical-diagrams</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/23/climate-analytical-diagrams</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sol-rni-week-temp.png" width="398" title="image" >
 <img class="fancybox" src="/images/work/sol-rni-wind-year.png" width="398" title="image" ></p>
 
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Retail Development and Analysis]]></title>
-    <link href="http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis/"/>
+    <link href="http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis/"/>
     <updated>2014-01-21T17:02:49-08:00</updated>
-    <id>http://alexandermaly.github.io/blog/2014/01/21/retail-development-and-analysis</id>
+    <id>http://www.alexandermaly.com/blog/2014/01/21/retail-development-and-analysis</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/van-early1.png" width="398" title="image" >
 <img class="fancybox" src="/images/work/van-AA017.png" width="398" title="image" ></p>
 
