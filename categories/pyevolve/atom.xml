@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pyevolve | ALEXANDER MALY]]></title>
   <link href="http://alexandermaly.github.io/categories/pyevolve/atom.xml" rel="self"/>
   <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T18:10:45-08:00</updated>
+  <updated>2014-01-24T18:11:47-08:00</updated>
   <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
@@ -18,8 +18,8 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/23/genetic-algorithm-in-object-optimization/"/>
     <updated>2014-01-23T17:02:46-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/23/genetic-algorithm-in-object-optimization</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/opti-g6p40-incl-vol-prelight-101113-235300.png" width="398" title="image" >
-<img class="fancybox" src="/images/work/opti-g10p50m10e1-incl-vol-ramp-101110-230007.png" width="398" title="image" ></p>
+    <content type="html"><![CDATA[<p>{% img fancybox /images/work/opti-g6p40-incl-vol-prelight-101113-235300.png 398 image %}
+{% img fancybox /images/work/opti-g10p50m10e1-incl-vol-ramp-101110-230007.png 398 image %}</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blender | ALEXANDER MALY]]></title>
   <link href="http://alexandermaly.github.io/categories/blender/atom.xml" rel="self"/>
   <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T18:10:45-08:00</updated>
+  <updated>2014-01-24T18:11:47-08:00</updated>
   <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
@@ -18,7 +18,7 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/21/crowd-simulation/"/>
     <updated>2014-01-21T17:02:47-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/21/crowd-simulation</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sim-simulation-framegrab.png" width="398" title="image" ></p>
+    <content type="html"><![CDATA[<p>{% img fancybox /images/work/sim-simulation-framegrab.png 398 image %}</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: spaceframe | ALEXANDER MALY]]></title>
   <link href="http://alexandermaly.github.io/categories/spaceframe/atom.xml" rel="self"/>
   <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T18:10:45-08:00</updated>
+  <updated>2014-01-24T18:11:47-08:00</updated>
   <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
@@ -18,17 +18,17 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/16/modular-structure/"/>
     <updated>2014-01-16T17:02:48-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/16/modular-structure</id>
-    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/sx-Containment.png" width="398" title="image" >
-<img class="fancybox" src="/images/work/sx-det-day3pavC.png" width="398" title="image" ></p>
+    <content type="html"><![CDATA[<p>{% img fancybox /images/work/sx-Containment.png 398 image %}
+{% img fancybox /images/work/sx-det-day3pavC.png 398 image %}</p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="/images/work/sx-ISOMETRIC.png" width="398" title="image" >
-<img class="fancybox" src="/images/work/sx-night1_3pavC.png" width="398" title="image" ></p>
+<p>{% img fancybox /images/work/sx-ISOMETRIC.png 398 image %}
+{% img fancybox /images/work/sx-night1_3pavC.png 398 image %}</p>
 
-<p><img class="fancybox" src="/images/work/sx-snowy3pavC.png" width="398" title="image" >
-<img class="fancybox" src="/images/work/sx-wholebldg_3pavC.png" width="398" title="image" ></p>
+<p>{% img fancybox /images/work/sx-snowy3pavC.png 398 image %}
+{% img fancybox /images/work/sx-wholebldg_3pavC.png 398 image %}</p>
 ]]></content>
   </entry>
   

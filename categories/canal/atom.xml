@@ -4,7 +4,7 @@
   <title><![CDATA[Category: canal | ALEXANDER MALY]]></title>
   <link href="http://alexandermaly.github.io/categories/canal/atom.xml" rel="self"/>
   <link href="http://alexandermaly.github.io/"/>
-  <updated>2014-01-24T18:10:45-08:00</updated>
+  <updated>2014-01-24T18:11:47-08:00</updated>
   <id>http://alexandermaly.github.io/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
@@ -18,20 +18,24 @@
     <link href="http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh/"/>
     <updated>2014-01-24T00:14:30-08:00</updated>
     <id>http://alexandermaly.github.io/blog/2014/01/24/urban-design-for-dhaka-bangladesh</id>
-    <content type="html"><![CDATA[<p><blockquote><p>an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.</p></blockquote></p>
+    <content type="html"><![CDATA[<p>{% blockquote %}
+an effort to re-unite the city of Dhaka across the flood barrier, and to reintegrate the unavoidable tensions of the watery edge.
+{% endblockquote %}</p>
 
-<p><img class="fancybox" src="/images/work/dha-3daerial.png" width="398" title="comprehensive view of the proposed urban plan" >
-<img class="fancybox" src="/images/work/dha-canal-view.png" width="398" title="detail view of the proposed urban plan" ></p>
+<p>{% img fancybox /images/work/dha-3daerial.png 398 comprehensive view of the proposed urban plan %}
+{% img fancybox /images/work/dha-canal-view.png 398 detail view of the proposed urban plan %}</p>
 
 <!-- more -->
 
 
-<p><img class="fancybox" src="/images/work/dha-concept.png" width="398" title="initial inspirational diagram" >
-<img class="fancybox" src="/images/work/dha-dhaka-temperature2-3d-01.png" width="398" title="climatic conditions" >
-<img class="fancybox" src="/images/work/dha-landuse-transition-diagram.png" width="398" title="diagram of purpose" >
-<img class="fancybox" src="/images/work/dha-masterplan.png" width="398" title="plan view of proposal" ></p>
+<p>{% img fancybox /images/work/dha-concept.png 398 initial inspirational diagram %}
+{% img fancybox /images/work/dha-dhaka-temperature2-3d-01.png 398 climatic conditions %}
+{% img fancybox /images/work/dha-landuse-transition-diagram.png 398 diagram of purpose %}
+{% img fancybox /images/work/dha-masterplan.png 398 plan view of proposal %}</p>
 
-<p><blockquote><p>.</p></blockquote></p>
+<p>{% blockquote %}
+.
+{% endblockquote %}</p>
 ]]></content>
   </entry>
   
