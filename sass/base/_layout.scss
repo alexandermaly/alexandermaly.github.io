@@ -11,7 +11,7 @@ body{
 	background: $color-background;
 	color: $color-gray01;
 	@media screen and (max-width: 1040px){
-		margin: 0 20px;
+		margin: 10px 10px 0px 10px;
 	}
 	@media screen and (max-width: 600px){
 		font-size: 13px;
@@ -36,6 +36,9 @@ a{
 }
 .alignright{
 	float: right;
+}
+.clearall{
+	clear:both;
 }
 .clearfix{
 	@include pie-clearfix;

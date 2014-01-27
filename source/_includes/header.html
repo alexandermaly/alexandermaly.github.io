@@ -1,13 +1,19 @@
 <nav id="logoblock">
+<div>
 	<nav id="title">
 		<a href="{{ root_url }}/">{{ site.title }}</a>
 	</nav>
 	<nav id="subtitle">
 		<a href="{{ root_url }}/">{{ site.subtitle }}</a>
 	</nav>
+	<nav id="subtitle">
+		<a href="mailto://amaly@hawaii.edu">amaly(at)hawaii.edu</a>
+	</nav>
+</div>
 </nav>
 <nav id="main-nav">{% include navigation.html %}
-	<ul class="main"><li class="social-buttons">
+	<ul class="main">
+	<li class="social-buttons">
 	<nav id="sub-nav" class="alignleft">
 		<div class="social">
 			{% if site.facebook_user %}
@@ -53,7 +59,7 @@
 	</ul>
 </nav>
 <nav id="mobile-nav">
-	<div class="alignleft menu">
+	<div class="menu">
 		<a class="button">Menu</a>
 		<div class="container">{% include navigation.html %}</div>
 	</div>
@@ -69,3 +75,5 @@
 </nav>
 
 {% include custom/header.html %}
+
+<div class="clearall"></div>

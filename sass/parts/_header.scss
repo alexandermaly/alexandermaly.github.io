@@ -2,13 +2,10 @@ $header-height: 123px;
 $title-height: 35px;
 
 #header{
-	height: $header-height;
-	padding: 10px 0;
-	border-bottom: 1px solid $color-gray04;
-	@media screen and (max-width: 1040px){
-		height: auto;
-		position: relative;
-		padding-bottom: 10px;
+	padding: 0 0 8px 0;
+	position: relative;
+	@media screen and (max-width: 1600px){
+		border-bottom:1px solid $color-gray03;
 	}
 	a{
 		color: $color-gray01;
@@ -20,21 +17,29 @@ $title-height: 35px;
 	
 	#logoblock{
 		float:left;
-		margin-right: 0px;
-		margin-left: 0px;
+		padding:50px;
+		text-align:center;
 		@media screen and (max-width: 1040px){
+			border: 1px solid $color-gray04;
 			float: none;
 		}
+		div{
+			text-align: center;
+			display: inline-block;
+		}
 	}
+	
 	#title{
-		margin-top:45px;
-		margin-left:42px;
-		margin-right:42px;
+		margin: 0 auto;
+		text-align: right;
+
 		font-weight: 900;
 		font-size: 1.2em;
 	}
 	#subtitle{
-		margin-left: 85px;
+		margin: 0 auto;
+		text-align: right;
+
 		font-weight: 200;
 		font-size: 0.8em;
 	}
@@ -42,16 +47,20 @@ $title-height: 35px;
 
 
 #main-nav{
-	height:$header-height;
 	float: left;
-	border-left: 1px solid $color-gray02;
-	@media screen and (max-width: 1040px){
-		float: none;
-		margin-left: 0;
-		margin-top: 5px;
-	}
+	margin-top: 27px;
 	ul{
 		height:24px;
+	}
+	@media screen and (max-width: 1040px){
+		height: $header-height;
+		float: none;
+		margin-left: 0;
+		margin-top: 32px;
+	}
+	@media screen and (max-width: 600px){
+		height:auto;
+		margin-top: 8px;
 	}
 
 	.head-tag{
@@ -63,22 +72,21 @@ $title-height: 35px;
 		float: left;
 		display:inline-block;
 		text-align:right;
-		padding-right: 10px;
+		padding-right: 8px;
 	}
 
 	>ul{
-		line-height: 12px;
-		margin-left: 5px;
-		padding-left: 15px;
 		@media screen and (max-width: 600px){
+			line-height: 12px;
+			margin-left: 3px;
+			padding-left: 5px;
 			display: none;
 		}
 		>li{
 			margin-left: 5px;
+			height: 15px;
 			@include inline-block;
 			@media screen and (max-width: 1040px){
-				margin-left: 0;
-				margin-right: 35px;
 				&:last-of-type{
 					margin-right: 0;
 				}
@@ -103,7 +111,6 @@ $title-height: 35px;
 					}
 				}
 				@media screen and (max-width: 1040px){
-					padding: 18px 0;
 				}
 			}
 		}
@@ -118,7 +125,6 @@ $title-height: 35px;
 			list-style: none;
 			display: none;
 			@media screen and (max-width: 1040px){
-				top: 5px;
 			}
 			@include box-shadow(0 4px 8px rgba(0,0,0,0.1));
 			@include border-radius(0 0 5px 5px);
@@ -165,7 +171,7 @@ $title-height: 35px;
 		}
 		li{
 			position: relative;
-			height: 12px;
+			height: 14px;
 			&:hover{
 				>ul{
 					display: block;
@@ -175,7 +181,7 @@ $title-height: 35px;
 	}
 	select{
 		display: none;
-		margin-bottom: 10px;
+		margin-bottom: 0;
 		@media screen and (max-width: 600px){
 			display: block;
 		}
@@ -183,7 +189,7 @@ $title-height: 35px;
 }
 #mobile-nav{
 	display: none;
-	height: 37px;
+	border: none;
 	position: relative;
 	@media screen and (max-width: 600px){
 		display: block;
@@ -204,9 +210,9 @@ $title-height: 35px;
 			background: #f2f2f2;
 			border: 1px solid $color-gray04;
 			color: #999;
-			padding: 0 60px 0 10px;
+			padding: 8px 60px 8px 10px;
 			position: relative;
-			@include border-radius(5px);
+			@include border-radius(7px);
 			&:hover{
 				color: #999;
 			}
@@ -220,7 +226,7 @@ $title-height: 35px;
 			&:before{
 				content: "\f078";
 				color: $color-gray04;
-				font: 16px $font-icon;
+				font: 14px $font-icon;
 				line-height: 30px;
 				position: absolute;
 				top: 0;
@@ -240,6 +246,9 @@ $title-height: 35px;
 				ul{
 					margin-left: 20px;
 				}
+				li{
+					margin-left: 10px;
+				}
 			}
 			a{
 				padding: 0 10px;
@@ -255,8 +264,8 @@ $title-height: 35px;
 			width: 30px;
 			height: 30px;
 			position: absolute;
-			top: 3px;
-			right: -1px;
+			top: 1px;
+			right: 1px;
 			@include border-radius(0 5px 5px 0);
 			&:before{
 				content: "\f002";
@@ -295,13 +304,9 @@ $title-height: 35px;
 #sub-nav{
 	float: left;
 	margin-top: 7px;
-	margin-left: 125px;
+	margin-left: 152px;
+	margin-bottom: 40px;
 	position: relative;
-	@media screen and (max-width: 1040px){
-		position: absolute;
-		top: 23px;
-		right: 0;
-	}
 	@media screen and (max-width: 600px){
 		display: none;
 	}
@@ -310,8 +315,7 @@ $title-height: 35px;
 		margin-top: 0px;
 		position: relative;
 		@media screen and (max-width: 1040px){
-			float: none;
-			margin-top: 15px;
+			float: left;
 		}
 		&:before{
 			content: "\f002";
@@ -343,10 +347,9 @@ $title-height: 35px;
 		float: left;
 		margin-right: 15px;
 		@media screen and (max-width: 1040px){
-			float: none;
-			margin-right: 0;
+			float: left;
 			a:last-of-type{
-				margin-right: 0;
+				margin-right: 15px;
 			}
 		}
 		a{
@@ -395,13 +398,13 @@ $title-height: 35px;
 					border: 1px solid darken(rgb(58,114,159), 10%);
 				}
 			}
-      &.pinboard{
-        background: image-url('social/pinboard.png') center no-repeat rgb(0,102,200);
-        border: 1px solid rgb(58,114,159);
-        &:hover{
-          border: 1px solid darken(rgb(0,102,255), 10%);
-        }
-      }
+	        &.pinboard{
+		        background: image-url('social/pinboard.png') center no-repeat rgb(0,102,200);
+		        border: 1px solid rgb(58,114,159);
+		        &:hover{
+			        border: 1px solid darken(rgb(0,102,255), 10%);
+			    }
+		    }
 			&.linkedin{
 				background: image-url('social/linkedin.png') center no-repeat #005A87;
 				border: 1px solid #005A87;
@@ -415,7 +418,7 @@ $title-height: 35px;
 				&:hover{
 					border: 1px solid darken(rgb(190,64,55), 10%);
 				}
-      }
+	        }
 			&.delicious{
 				background: image-url('social/delicious.png') center no-repeat rgb(50,113,203);
 				border: 1px solid rgb(50,113,203);
@@ -430,7 +433,7 @@ $title-height: 35px;
 					border: 1px solid darken(#ef7522, 10%);
 				}
 			}
-      &.instagram{
+		    &.instagram{
 				background: image-url('social/instagram.png') center no-repeat rgb(64,110,149);
 				border: 1px solid rgb(64,110,149);
 				&:hover{
