@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: monument | ALEXANDER MALY]]></title>
+  <link href="http://www.alexandermaly.com/categories/monument/atom.xml" rel="self"/>
+  <link href="http://www.alexandermaly.com/"/>
+  <updated>2014-01-28T00:07:49-08:00</updated>
+  <id>http://www.alexandermaly.com/</id>
+  <author>
+    <name><![CDATA[Alexander Maly]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Monument within Landscape]]></title>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/monument-within-landscape/"/>
+    <updated>2014-01-22T17:02:47-08:00</updated>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/monument-within-landscape</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/pal-model-angle.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/pal-wings7-elev.png" width="398" title="image" ></p>
+
+<!-- more -->
+
+
+<p><img class="fancybox" src="/images/work/pal-model-wing.png" width="398" title="image" ></p>
+
+<p><img class="fancybox" src="/images/work/pali-diagrams.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/pali-merged.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/pali-overhead-big-bridgeY.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/pali-PICT1981-colorcorrected.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/pali-PICT2008-colorcorrected.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/pali-sx-diagram.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/pali-UnderdeckViewbridgeX.png" width="398" title="image" ></p>
+]]></content>
+  </entry>
+  
+</feed>

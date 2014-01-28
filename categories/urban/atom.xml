@@ -4,7 +4,7 @@
   <title><![CDATA[Category: urban | ALEXANDER MALY]]></title>
   <link href="http://www.alexandermaly.com/categories/urban/atom.xml" rel="self"/>
   <link href="http://www.alexandermaly.com/"/>
-  <updated>2014-01-27T13:55:02-08:00</updated>
+  <updated>2014-01-28T00:07:49-08:00</updated>
   <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
@@ -32,6 +32,15 @@
 <img class="fancybox" src="/images/work/dha-masterplan.png" width="398" title="plan view of proposal" ></p>
 
 <p><blockquote><p>.</p></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mapping the SF Bike System]]></title>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/mapping-the-sf-bike-system/"/>
+    <updated>2014-01-22T17:02:45-08:00</updated>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/mapping-the-sf-bike-system</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/map-SFBikes-131112-210910.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   

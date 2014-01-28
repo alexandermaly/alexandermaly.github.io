@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rhinoceros | ALEXANDER MALY]]></title>
   <link href="http://www.alexandermaly.com/categories/rhinoceros/atom.xml" rel="self"/>
   <link href="http://www.alexandermaly.com/"/>
-  <updated>2014-01-27T13:55:02-08:00</updated>
+  <updated>2014-01-28T00:07:49-08:00</updated>
   <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Diagrams and Analytical Models]]></title>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/diagrams-and-analytical-models/"/>
+    <updated>2014-01-22T17:02:43-08:00</updated>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/diagrams-and-analytical-models</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/dia-twist-phyics-rendering.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/dia-twist-rh-vp2-110722.png" width="398" title="image" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Floating City]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: analysis | ALEXANDER MALY]]></title>
   <link href="http://www.alexandermaly.com/categories/analysis/atom.xml" rel="self"/>
   <link href="http://www.alexandermaly.com/"/>
-  <updated>2014-01-27T13:55:02-08:00</updated>
+  <updated>2014-01-28T00:07:49-08:00</updated>
   <id>http://www.alexandermaly.com/</id>
   <author>
     <name><![CDATA[Alexander Maly]]></name>
@@ -29,12 +29,37 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Diagrams of Oahu]]></title>
+    <link href="http://www.alexandermaly.com/blog/2014/01/23/diagrams-of-oahu/"/>
+    <updated>2014-01-23T17:02:46-08:00</updated>
+    <id>http://www.alexandermaly.com/blog/2014/01/23/diagrams-of-oahu</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/oahu-landvalue-final.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/oahu-shadingrender.png" width="398" title="image" ></p>
+
+<!-- more -->
+
+
+<p><img class="fancybox" src="/images/work/oahu-test-honoquad.png" width="398" title="image" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Residential Plans and Analysis]]></title>
     <link href="http://www.alexandermaly.com/blog/2014/01/22/residential-plans-and-analysis/"/>
     <updated>2014-01-22T17:02:49-08:00</updated>
     <id>http://www.alexandermaly.com/blog/2014/01/22/residential-plans-and-analysis</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/res-120910-set.png" width="398" title="image" >
 <img class="fancybox" src="/images/work/res-121012-isometric.png" width="398" title="image" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Diagrams and Analytical Models]]></title>
+    <link href="http://www.alexandermaly.com/blog/2014/01/22/diagrams-and-analytical-models/"/>
+    <updated>2014-01-22T17:02:43-08:00</updated>
+    <id>http://www.alexandermaly.com/blog/2014/01/22/diagrams-and-analytical-models</id>
+    <content type="html"><![CDATA[<p><img class="fancybox" src="/images/work/dia-twist-phyics-rendering.png" width="398" title="image" >
+<img class="fancybox" src="/images/work/dia-twist-rh-vp2-110722.png" width="398" title="image" ></p>
 ]]></content>
   </entry>
   
